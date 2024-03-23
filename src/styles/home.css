@@ -1,0 +1,14 @@
+.contactName{
+    color: rgb(45, 44, 44);
+    font-size: 24px;  
+}
+
+.contactPic{
+    border-radius: 100%;
+    width: 55%;
+}
+
+.contactActions{
+    border: none;
+    background-color: transparent;
+}
